@@ -1,16 +1,13 @@
-## Hi there 👋
+## Boas vindas ao meu perfil 🗣️
 
-<!--
-**ZecaJr-hub/ZecaJr-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Pedro Bonrruque Filho
 
-Here are some ideas to get you started:
+- Estudo uma trilha de cursos direcionada pelo [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo este espaço para minha organizão e compartilhamento de projetos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### Você pode entrar em contato comigo ⤵️
+
+  00001113927847sp@al.educacao.sp.gov.br
+
+![](https://media1.tenor.com/m/r94PgsNCDbEAAAAC/thor-good-job.gif)
